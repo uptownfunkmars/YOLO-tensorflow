@@ -24,6 +24,7 @@ yolo v1 的tensorflow实现
 > 定义了训练过程的loss function.
 + yolo_train.py
 > 训练过程。
+> python train.py开始训练。
 
 
 代码参考了以下三个仓库：
